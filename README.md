@@ -4,7 +4,7 @@
 - [x] Read and analyze the PIMA Indians Diabetes dataset (EDA)
 - [x] Build KNN and logistic regression model
 - [x] Check for best performance configurations (Hyperparameter tuning)
-- [x] ross-validate both models (10-fold cross-validation)
+- [x] Cross-validate both models (10-fold cross-validation)
 - [x] Check for maximum performance metrics using ROC-AUC value and Matthew's correlation coefficient
 
 # PIMA Indians Diabetes Dataset Analysis
