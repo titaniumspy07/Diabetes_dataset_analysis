@@ -1,4 +1,4 @@
-# lab_test_2
+# _Lab Test 2 For Predictive Analytics_
 
 # Objective of assignment
 - [x] Read and analyze the PIMA Indians Diabetes dataset (EDA)
